@@ -1,0 +1,1 @@
+Jupiter notebook with useful things for Python programming and data analise.
